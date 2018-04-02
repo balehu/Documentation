@@ -1,7 +1,7 @@
 # White Papers
 
 - Overview [English](https://github.com/balehu/Documentation/blob/master/Overview.pdf)
-- Summary [Enlish](https://github.com/balehu/Documentation/blob/master/Summary.pdf)
+- Summary [English](https://github.com/balehu/Documentation/blob/master/Summary.pdf)
 - Complete [English](https://github.com/balehu/Documentation/blob/master/Complete.pdf)
 
 # Wiki (Coming Soon)
